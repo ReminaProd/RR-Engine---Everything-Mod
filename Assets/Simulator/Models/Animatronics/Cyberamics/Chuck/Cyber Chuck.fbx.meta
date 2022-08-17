@@ -318,12 +318,95 @@ ModelImporter:
   - first:
       74: 1248456569961433173
     second: Armature|Arm.002
+  - first:
+      74: 8676719441912541322
+    second: Armature|Armature|Armature|Arm|Armature|Arm
+  - first:
+      74: -7866660576495680335
+    second: Armature|Armature|Armature|Body Turn|Armature|Body Turn
+  - first:
+      74: -1760091361254424659
+    second: Armature|Armature|Armature|Eye Left|Armature|Eye Left
+  - first:
+      74: -6244707501836552788
+    second: Armature|Armature|Armature|Eye Right.001|Armature|Eye Right.001
+  - first:
+      74: 5054050192561190946
+    second: Armature|Armature|Armature|Eyelid|Armature|Eyelid
+  - first:
+      74: 1077819570333523822
+    second: Armature|Armature|Armature|Head Turn|Armature|Head Turn
+  - first:
+      74: 7193617252504611032
+    second: Armature|Armature|Armature|Head Up|Armature|Head Up
+  - first:
+      74: -7835141142863550690
+    second: Armature|Armature|Armature|Jaw.004|Armature|Jaw.004
+  - first:
+      74: 7558527950288797835
+    second: Armature|Armature|Armature|Jaw|Armature|Jaw
+  - first:
+      74: -614136187366670280
+    second: Armature|Circle.023|Circle.023|Circle.004Action|Circle.023|Circle.00
+  - first:
+      74: -5491480242538882466
+    second: Armature|Circle.023|Circle.023|Circle.004Action|Circle.023|Circle.004Act
+  - first:
+      74: 6646613953656009957
+    second: Armature|Circle.023|Circle.023|Circle.011Action.001|Circle.023|Circl
+  - first:
+      74: 2305561474158811129
+    second: Armature|Circle.023|Circle.023|Circle.011Action.001|Circle.023|Circle.01
+  - first:
+      74: 8661997512035181533
+    second: Armature|Circle.023|Circle.023|Circle.011Action.002|Circle.023|Circl
+  - first:
+      74: 2768735819132831512
+    second: Armature|Circle.023|Circle.023|Circle.011Action.002|Circle.023|Circle.01
+  - first:
+      74: -5348844169243198086
+    second: Armature|Circle.023|Circle.023|Circle.011Action.003|Circle.023|Circl
+  - first:
+      74: 5614896458189397854
+    second: Armature|Circle.023|Circle.023|Circle.011Action.003|Circle.023|Circle.01
+  - first:
+      74: -7837264699546480801
+    second: Armature|Circle.023|Circle.023|Circle.011Action.004|Circle.023|Circl
+  - first:
+      74: 2720008708975853226
+    second: Armature|Circle.023|Circle.023|Circle.011Action.004|Circle.023|Circle.01
+  - first:
+      74: -2321722708962277976
+    second: Armature|Circle.023|Circle.023|Circle.011Action.005|Circle.023|Circl
+  - first:
+      74: -4389729433874218033
+    second: Armature|Circle.023|Circle.023|Circle.011Action.005|Circle.023|Circle.01
+  - first:
+      74: -1259992149937775293
+    second: Armature|Cube.010|Cube.010|Circle.004Action|Cube.010|Circle.004Action
+  - first:
+      74: -7952133037453056395
+    second: Armature|Cube.010|Cube.010|Circle.011Action.002|Cube.010|Circle.011Actio
+  - first:
+      74: -580390761570771328
+    second: Armature|Cube.010|Cube.010|Circle.011Action.003|Cube.010|Circle.011Actio
+  - first:
+      74: -4855958067795323993
+    second: Armature|Cube.010|Cube.010|Circle.011Action.005|Cube.010|Circle.011Actio
+  - first:
+      74: 8888870445451202356
+    second: Armature|Cube.010|Cube.010|Cube.010Action|Cube.010|Cube.010Action
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Alluminum
     second: {fileID: 2100000, guid: c431cf0f72d0e2d4c9fb9399c41ec3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminum.002
+    second: {fileID: 3721707903645688219, guid: b5a03fba4f8240946b5949262ff7a1af, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -334,6 +417,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Checker Tux
     second: {fileID: 2100000, guid: 16ce6e1cac36eb540974c2ca51420dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CoolChuckCyber
+    second: {fileID: 2100000, guid: 35af4a785219cef41872785d0f07b58a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -389,6 +477,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Other Metals
     second: {fileID: 2100000, guid: 28b8177df7f57ba479acdbcd94279bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Metals.002
+    second: {fileID: 5388033547666833363, guid: 5868f203234f9474bb132c456e3dcc4f, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Metals.006
+    second: {fileID: 5388033547666833363, guid: 5868f203234f9474bb132c456e3dcc4f, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

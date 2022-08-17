@@ -1,23 +1,74 @@
 fileFormatVersion: 2
-guid: 7db70df3a166ff3448b213ed5d689fea
+guid: 286d73ab8116f0a4e9fc29fb2199b741
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable:
   - first:
-      74: -8973741374403628952
-    second: Armature|Arm
+      74: -6051565436247328068
+    second: Armature| Body Turn
   - first:
-      74: -6067092455236434400
-    second: Armature|Body Turn
+      74: 6770010330235905708
+    second: Armature|Arms
   - first:
-      74: 4976626676966158945
-    second: Armature|Eye Left
+      74: -614136187366670280
+    second: Armature|Circle.023|Circle.023|Circle.004Action|Circle.023|Circle.00
   - first:
-      74: -7217445034407844447
-    second: Armature|Eye Right.001
+      74: -5491480242538882466
+    second: Armature|Circle.023|Circle.023|Circle.004Action|Circle.023|Circle.004Act
+  - first:
+      74: 6646613953656009957
+    second: Armature|Circle.023|Circle.023|Circle.011Action.001|Circle.023|Circl
+  - first:
+      74: 2305561474158811129
+    second: Armature|Circle.023|Circle.023|Circle.011Action.001|Circle.023|Circle.01
+  - first:
+      74: 8661997512035181533
+    second: Armature|Circle.023|Circle.023|Circle.011Action.002|Circle.023|Circl
+  - first:
+      74: 2768735819132831512
+    second: Armature|Circle.023|Circle.023|Circle.011Action.002|Circle.023|Circle.01
+  - first:
+      74: -5348844169243198086
+    second: Armature|Circle.023|Circle.023|Circle.011Action.003|Circle.023|Circl
+  - first:
+      74: 5614896458189397854
+    second: Armature|Circle.023|Circle.023|Circle.011Action.003|Circle.023|Circle.01
+  - first:
+      74: -7837264699546480801
+    second: Armature|Circle.023|Circle.023|Circle.011Action.004|Circle.023|Circl
+  - first:
+      74: 2720008708975853226
+    second: Armature|Circle.023|Circle.023|Circle.011Action.004|Circle.023|Circle.01
+  - first:
+      74: -2321722708962277976
+    second: Armature|Circle.023|Circle.023|Circle.011Action.005|Circle.023|Circl
+  - first:
+      74: -4389729433874218033
+    second: Armature|Circle.023|Circle.023|Circle.011Action.005|Circle.023|Circle.01
+  - first:
+      74: -1259992149937775293
+    second: Armature|Cube.010|Cube.010|Circle.004Action|Cube.010|Circle.004Action
+  - first:
+      74: -7952133037453056395
+    second: Armature|Cube.010|Cube.010|Circle.011Action.002|Cube.010|Circle.011Actio
+  - first:
+      74: -580390761570771328
+    second: Armature|Cube.010|Cube.010|Circle.011Action.003|Cube.010|Circle.011Actio
+  - first:
+      74: -4855958067795323993
+    second: Armature|Cube.010|Cube.010|Circle.011Action.005|Cube.010|Circle.011Actio
+  - first:
+      74: 8888870445451202356
+    second: Armature|Cube.010|Cube.010|Cube.010Action|Cube.010|Cube.010Action
   - first:
       74: -4468833103851162649
     second: Armature|Eyelid
+  - first:
+      74: -3671129136939887856
+    second: Armature|Eyes L
+  - first:
+      74: -1915143090891745733
+    second: Armature|Eyes R
   - first:
       74: 5222244535955428218
     second: Armature|Head Turn
@@ -32,7 +83,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Alluminum
-    second: {fileID: 2100000, guid: c431cf0f72d0e2d4c9fb9399c41ec3a4, type: 2}
+    second: {fileID: 3721707903645688219, guid: b5a03fba4f8240946b5949262ff7a1af, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banjo
+    second: {fileID: 2100000, guid: ff38178f710a170409db8c57526efd72, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -46,8 +102,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Eye
-    second: {fileID: 2100000, guid: 9ae966a9b2ef4e94c94c697f2b34ff35, type: 2}
+      name: EyelashFur
+    second: {fileID: 2100000, guid: c374055a75f56d84ab6c2d8f714ee2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EyelashFur2
+    second: {fileID: 2100000, guid: bd472a0baa68b1b4c98713434f3bb495, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -56,29 +117,49 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Eyelid Brown
-    second: {fileID: 2100000, guid: 39cb9b017cda9934990be727754f105d, type: 2}
+      name: JasperBandana
+    second: {fileID: 2100000, guid: 15e7ca18d61773c40ab4c7456dd0c624, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: 1de2d700b6a40fc41ba83ab0bd2a38b0, type: 2}
+      name: JasperFur1
+    second: {fileID: 2100000, guid: 99e420e961351f94e912c12cc3cf0a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JasperFur2
+    second: {fileID: 2100000, guid: 006125cea09f5fd45bc36e960bc3f813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JasperFur3
+    second: {fileID: 2100000, guid: cc4cc4a98ebb8ec43abfcd2f79e380e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JasperPTT
+    second: {fileID: 2100000, guid: 196811343a15d694aaf536a3f618bf1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JasperShirt
+    second: {fileID: 2100000, guid: 6a381abc482ce754395c4391fd9178b8, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Other Metals
-    second: {fileID: 2100000, guid: 28b8177df7f57ba479acdbcd94279bb1, type: 2}
+    second: {fileID: 5388033547666833363, guid: 93f64d284adc21749814ecb5c6bc00dc, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 2
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 0
+    removeConstantScaleCurves: 1
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -108,7 +189,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 0
+    nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -162,7 +243,7 @@ ModelImporter:
   animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

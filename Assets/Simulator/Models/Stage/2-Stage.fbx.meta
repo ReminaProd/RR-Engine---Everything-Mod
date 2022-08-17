@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 0a97c732af7a4e44a863ef90db768310
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: -6136355410247916118
+    second: Circle.051|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: -251685569084273856
+    second: Circle.051|Circle.004Action
+  - first:
+      74: -4250219168363054419
+    second: Circle.051|Circle.005Action
+  - first:
+      74: -5848515355049133491
+    second: Circle.051|Circle.006Action
+  - first:
+      74: 6605834118129176340
+    second: Circle.051|Circle.032Action
+  - first:
+      74: 7483853055596513829
+    second: Circle.051|Circle.051Action
+  - first:
+      74: 1877874944880237928
+    second: Circle.051|Cube.002Action
+  - first:
+      74: -509850965076097546
+    second: Circle.051|Cube.012Action
+  - first:
+      74: -5006267225509920574
+    second: Circle.051|Fake StarsAction
+  - first:
+      74: 4314990523768396760
+    second: Circle.051|STARSAction
+  - first:
+      74: 4513374082384565936
+    second: Cube.012|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: 228462067759760766
+    second: Cube.012|Circle.004Action
+  - first:
+      74: 778411625918807312
+    second: Cube.012|Circle.005Action
+  - first:
+      74: 3564028244329378369
+    second: Cube.012|Circle.006Action
+  - first:
+      74: 3061527330912005768
+    second: Cube.012|Circle.032Action
+  - first:
+      74: -5978975838338587757
+    second: Cube.012|Circle.051Action
+  - first:
+      74: -6167941627313934329
+    second: Cube.012|Cube.002Action
+  - first:
+      74: 4795700235541847013
+    second: Cube.012|Cube.012Action
+  - first:
+      74: -387970972261742140
+    second: Cube.012|Fake StarsAction
+  - first:
+      74: -1527893480629137216
+    second: Cube.012|STARSAction
+  - first:
+      74: 8172956598443418461
+    second: Circle.032|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: 518449517159829118
+    second: Circle.032|Circle.004Action
+  - first:
+      74: 3898618644458216546
+    second: Circle.032|Circle.005Action
+  - first:
+      74: -3204318204160997272
+    second: Circle.032|Circle.006Action
+  - first:
+      74: 9072034750460778239
+    second: Circle.032|Circle.032Action
+  - first:
+      74: -1019013135096628174
+    second: Circle.032|Circle.051Action
+  - first:
+      74: -5056079664926393223
+    second: Circle.032|Cube.002Action
+  - first:
+      74: 5071791705483162288
+    second: Circle.032|Cube.012Action
+  - first:
+      74: 7439519341922704404
+    second: Circle.032|Fake StarsAction
+  - first:
+      74: 2278640625557975957
+    second: Circle.032|STARSAction
+  - first:
+      74: 7653457371053593330
+    second: STARS|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: 3630307450895114485
+    second: STARS|Circle.004Action
+  - first:
+      74: -4429858095004982008
+    second: STARS|Circle.005Action
+  - first:
+      74: 4346935395491536754
+    second: STARS|Circle.006Action
+  - first:
+      74: -6563790536143091410
+    second: STARS|Circle.032Action
+  - first:
+      74: -8785399249210633370
+    second: STARS|Circle.051Action
+  - first:
+      74: -4241102791410445858
+    second: STARS|Cube.002Action
+  - first:
+      74: 5082647531718729580
+    second: STARS|Cube.012Action
+  - first:
+      74: -5880128827443681608
+    second: STARS|Fake StarsAction
+  - first:
+      74: 419640674675978137
+    second: STARS|STARSAction
+  - first:
+      74: -307489002474575434
+    second: Fake Stars|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: -5575623211073740685
+    second: Fake Stars|Circle.004Action
+  - first:
+      74: -1157897941775869708
+    second: Fake Stars|Circle.005Action
+  - first:
+      74: -1180317170377114004
+    second: Fake Stars|Circle.006Action
+  - first:
+      74: 8511398075626985983
+    second: Fake Stars|Circle.032Action
+  - first:
+      74: 6539128389057499678
+    second: Fake Stars|Circle.051Action
+  - first:
+      74: -2828573039479616707
+    second: Fake Stars|Cube.002Action
+  - first:
+      74: -7981905540336588439
+    second: Fake Stars|Cube.012Action
+  - first:
+      74: 2460996980149675711
+    second: Fake Stars|Fake StarsAction
+  - first:
+      74: 957317768447288336
+    second: Fake Stars|STARSAction
+  - first:
+      74: -6303195384938927601
+    second: Circle.005|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: 1524719785256721631
+    second: Circle.005|Circle.004Action
+  - first:
+      74: 8216294050978103995
+    second: Circle.005|Circle.005Action
+  - first:
+      74: -1789398760181179729
+    second: Circle.005|Circle.006Action
+  - first:
+      74: -7116552805978879644
+    second: Circle.005|Circle.032Action
+  - first:
+      74: -2199006400699154730
+    second: Circle.005|Circle.051Action
+  - first:
+      74: -5897322529408545644
+    second: Circle.005|Cube.002Action
+  - first:
+      74: -9108539913801454974
+    second: Circle.005|Cube.012Action
+  - first:
+      74: -6023546653747018857
+    second: Circle.005|Fake StarsAction
+  - first:
+      74: 6007369537407232355
+    second: Circle.005|STARSAction
+  - first:
+      74: 57549955653303273
+    second: Circle.004|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: -4090819288717459287
+    second: Circle.004|Circle.004Action
+  - first:
+      74: -1675940329241999612
+    second: Circle.004|Circle.005Action
+  - first:
+      74: -3913420414532584812
+    second: Circle.004|Circle.006Action
+  - first:
+      74: -2022711420351030830
+    second: Circle.004|Circle.032Action
+  - first:
+      74: -4768533655319521642
+    second: Circle.004|Circle.051Action
+  - first:
+      74: -2398221100816706982
+    second: Circle.004|Cube.002Action
+  - first:
+      74: 8601483057079351183
+    second: Circle.004|Cube.012Action
+  - first:
+      74: -846441379393760153
+    second: Circle.004|Fake StarsAction
+  - first:
+      74: 5431973088804939776
+    second: Circle.004|STARSAction
+  - first:
+      74: -9075426234840318079
+    second: Circle.006|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: 7655027689421009735
+    second: Circle.006|Circle.004Action
+  - first:
+      74: -7243051524919888254
+    second: Circle.006|Circle.005Action
+  - first:
+      74: -7145920864411528567
+    second: Circle.006|Circle.006Action
+  - first:
+      74: 3125522938337380014
+    second: Circle.006|Circle.032Action
+  - first:
+      74: -39260438133561142
+    second: Circle.006|Circle.051Action
+  - first:
+      74: -212655886024616517
+    second: Circle.006|Cube.002Action
+  - first:
+      74: 5325974951574402518
+    second: Circle.006|Cube.012Action
+  - first:
+      74: -2995729755803980061
+    second: Circle.006|Fake StarsAction
+  - first:
+      74: 847409671761702626
+    second: Circle.006|STARSAction
+  - first:
+      74: 6602206521627419877
+    second: Cube.002|Armature|Armature|Armature.001Action|Armature|Armature.001Actio
+  - first:
+      74: 2955287397051769111
+    second: Cube.002|Circle.004Action
+  - first:
+      74: 4802847041739228351
+    second: Cube.002|Circle.005Action
+  - first:
+      74: 3043775361113448886
+    second: Cube.002|Circle.006Action
+  - first:
+      74: -3784265590330063522
+    second: Cube.002|Circle.032Action
+  - first:
+      74: -666866096486674348
+    second: Cube.002|Circle.051Action
+  - first:
+      74: 6712369695479197947
+    second: Cube.002|Cube.002Action
+  - first:
+      74: -8194971655198363341
+    second: Cube.002|Cube.012Action
+  - first:
+      74: 252192061541078551
+    second: Cube.002|Fake StarsAction
+  - first:
+      74: -7886472144339219607
+    second: Cube.002|STARSAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1-stage
+    second: {fileID: 2100000, guid: 27d4a325f140a7442929e4ebff7af2a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AllColorWall
+    second: {fileID: 2100000, guid: 8d2379a1410befb4e93dd68c4a5196ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminum
+    second: {fileID: 3721707903645688219, guid: b5a03fba4f8240946b5949262ff7a1af, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackCeiling
+    second: {fileID: 2100000, guid: 5d5de57b5b4534d46b3a08b6bb94b5e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuckStar
+    second: {fileID: 2100000, guid: d5888595d4c06954abb2f6ffb1ec945c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain CU
+    second: {fileID: 2100000, guid: 6d2ad5056b2ae2246ad48f9c0c3350c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cushons
+    second: {fileID: 6632820212600213007, guid: b5a03fba4f8240946b5949262ff7a1af, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: c53314f0e0122a9409ca94eb8f7a7b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MMBBWalls.001
+    second: {fileID: 2100000, guid: 96ebe8382da162b40aea86162dfeb9bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MMBB_Sign.001
+    second: {fileID: 2100000, guid: 73dfdc3d0f144014f8bc66590f85fa54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainCU
+    second: {fileID: 2100000, guid: f2f8323a6d1e712499d53b45e3aa2645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OG Carpet
+    second: {fileID: 2100000, guid: 8900ce785e525be408e0acc8a8de34be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Metals
+    second: {fileID: 5388033547666833363, guid: 93f64d284adc21749814ecb5c6bc00dc, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProtoKeyboard
+    second: {fileID: 2100000, guid: 61bebbd45a74f134891ac8193f649876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SThreeXManWall.001
+    second: {fileID: 2100000, guid: c0183af3cc1b5ca4888b08baec1b36f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmittySign
+    second: {fileID: 2100000, guid: 0f016e5a27b384041b4833049a4cd3c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StageWood
+    second: {fileID: 3749878233217058185, guid: 2806b5ccd534750438e7b25643ae7e7f, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiledWood
+    second: {fileID: 2100000, guid: f9c3a845e02a9104e9aff7cdcb18994c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodTwo
+    second: {fileID: -8282223931824199206, guid: 3d83c2037d48b384d87f2326a267038b, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

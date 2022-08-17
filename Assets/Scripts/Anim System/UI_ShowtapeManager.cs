@@ -223,7 +223,7 @@ public class UI_ShowtapeManager : MonoBehaviour
                     }
 
                     //Check if show is over
-                    if (referenceSpeaker.time >= (referenceSpeaker.clip.length / referenceSpeaker.clip.channels))
+                    if (referenceSpeaker.time >= (referenceSpeaker.clip.length * referenceSpeaker.clip.channels))
                     {
                         if (isRandomPlaybackOn)
                         {

@@ -27,6 +27,15 @@ ModelImporter:
   - first:
       74: 1248479096871523054
     second: Armature|Jaw.001
+  - first:
+      74: 4817140242133443446
+    second: Armature|Armature.001|Armature|Arm|Armature|Arm
+  - first:
+      74: 3631086532420747671
+    second: Armature|PTT Arms - CEC Left Arm
+  - first:
+      74: -3612712218143127304
+    second: Armature|PTT Moustache - CEC Right Arm
   externalObjects:
   - first:
       type: UnityEngine:Material

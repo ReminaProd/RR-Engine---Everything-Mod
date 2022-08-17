@@ -12,6 +12,48 @@ ModelImporter:
   - first:
       74: 1097291283765010327
     second: Armature|Mech.002Action
+  - first:
+      74: 4237735579516096159
+    second: Armature|Armature|Armature|Mech.002Action|Armature|Mech.002Action
+  - first:
+      74: -4918831451018810558
+    second: Armature|Armature|Armature|Move|Armature|Move
+  - first:
+      74: 3607326681963402951
+    second: Armature|Armature|Armature|Warb Jaw|Armature|Warb Jaw
+  - first:
+      74: 7215408119347147908
+    second: Armature|Default.001|Default.001|Head Up.001|Default.001|Head Up.001
+  - first:
+      74: -2872937144019551940
+    second: Armature|Default.001|Default.001|Mouth.003|Default.001|Mouth.003
+  - first:
+      74: 2806606511048978197
+    second: Armature|Default.001|Default.001|SphereAction.001|Default.001|SphereActi
+  - first:
+      74: -8453665728298586793
+    second: Armature|Default.001|Default.001|SphereAction.002|Default.001|SphereActi
+  - first:
+      74: 2618823100342285158
+    second: Armature|Default.001|Default.001|SphereAction.003|Default.001|SphereActi
+  - first:
+      74: -27627337132835709
+    second: Armature|Default.001|Default.001|SphereAction|Default.001|SphereAction
+  - first:
+      74: -8252804021634086362
+    second: Armature|Default.001|Default.001|SunAction.009|Default.001|SunAction.009
+  - first:
+      74: -7664844268105884766
+    second: Armature|Default.001|Default.001|SunAction.010|Default.001|SunAction.010
+  - first:
+      74: 9140931668246126626
+    second: Armature|Default.001|Default.001|SunAction.011|Default.001|SunAction.011
+  - first:
+      74: -7266140764923353418
+    second: Armature|Default.001|Default.001|SunAction.012|Default.001|SunAction.012
+  - first:
+      74: 3972763292558961204
+    second: Armature|Default.001|Default.001|SunAction.013|Default.001|SunAction.013
   externalObjects:
   - first:
       type: UnityEngine:Material

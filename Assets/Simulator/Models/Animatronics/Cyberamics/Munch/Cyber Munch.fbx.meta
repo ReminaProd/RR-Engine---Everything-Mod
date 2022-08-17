@@ -27,6 +27,99 @@ ModelImporter:
   - first:
       74: 1248479096871523054
     second: Armature|Jaw.001
+  - first:
+      74: -4997845315843984465
+    second: Armature.001|Armature.001|Armature|Arm|Armature|Arm
+  - first:
+      74: 2031663057154135846
+    second: Armature.001|CM Body Turn
+  - first:
+      74: -4767730245559325975
+    second: Armature.001|CM Eyelids
+  - first:
+      74: 2004462721043369724
+    second: Armature.001|CM Eyes Left
+  - first:
+      74: 3630701168743306493
+    second: Armature.001|CM Eyes Right
+  - first:
+      74: -1246218439771306275
+    second: Armature.001|CM Head Turn
+  - first:
+      74: -2007969417084241570
+    second: Armature.001|CM Jaw
+  - first:
+      74: -1299467980362054737
+    second: Armature.001|CM Left Arm
+  - first:
+      74: -7137942207232317251
+    second: Armature.001|CM Right Arm
+  - first:
+      74: 4817140242133443446
+    second: Armature|Armature.001|Armature|Arm|Armature|Arm
+  - first:
+      74: -6306739902952811185
+    second: Armature|CM Body Turn
+  - first:
+      74: 1364995848005845079
+    second: Armature|CM Eyelids
+  - first:
+      74: 2488174462507388970
+    second: Armature|CM Eyes Left
+  - first:
+      74: 232997383339489029
+    second: Armature|CM Eyes Right
+  - first:
+      74: 5616288320106366870
+    second: Armature|CM Head Turn
+  - first:
+      74: 4836697462187274303
+    second: Armature|CM Jaw
+  - first:
+      74: -7860373814839886438
+    second: Armature|CM Left Arm
+  - first:
+      74: -7661004738666293588
+    second: Armature|CM Right Arm
+  - first:
+      74: -599497970339665333
+    second: CM Eyelids
+  - first:
+      74: -4195057039718332921
+    second: CM Body Turn
+  - first:
+      74: 1089830755746309499
+    second: CM Head Turn
+  - first:
+      74: 7642004043833290364
+    second: CM Jaw
+  - first:
+      74: -2459716298638124071
+    second: CM Eyes Left
+  - first:
+      74: -6411751826637153257
+    second: CM Eyes Right
+  - first:
+      74: 8673523580773989511
+    second: CM Right Arm
+  - first:
+      74: -9141761940105000607
+    second: CM Left Arm
+  - first:
+      74: -4175678136524551220
+    second: Left Arm
+  - first:
+      74: 8332902052556141530
+    second: Armature|Armature|Armature|Armature.001|Armature|Arm|Armature|Arm|Armatu
+  - first:
+      74: 6145162601518552583
+    second: Armature|Left Arm
+  - first:
+      74: 5854742422076206862
+    second: Armature|Right Arm
+  - first:
+      74: -163034753413625999
+    second: Right Arm
   externalObjects:
   - first:
       type: UnityEngine:Material

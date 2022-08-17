@@ -90,7 +90,7 @@ public class UI_PlayRecord : MonoBehaviour
         //Advances the tutorial if it is active
         if (manager.recordMovements && manager.referenceSpeaker.clip != null)
         {
-            if (manager.referenceSpeaker.time >= (manager.referenceSpeaker.clip.length / manager.referenceSpeaker.clip.channels))
+            if (manager.referenceSpeaker.time >= (manager.referenceSpeaker.clip.length * manager.referenceSpeaker.clip.channels))
             {
                 GameObject tt = GameObject.Find("Tutorial");
                 if (tt != null)

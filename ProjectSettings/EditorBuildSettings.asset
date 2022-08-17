@@ -21,7 +21,7 @@ EditorBuildSettings:
     path: Assets/Simulator/Scenes/CRAE/CRAE.unity
     guid: 30f8d1eb8cf4afe4a919fd1c65281a2a
   - enabled: 1
-    path: Assets/Simulator/Scenes/CYBERS/CYBERS.unity
+    path: Assets/Simulator/Scenes/CYBERS PTT/PTT Cybers.unity
     guid: 086d72e9f31166b4db12584339b1221b
   - enabled: 1
     path: Assets/Scenes/Bit Crusher/Bit Crusher.unity

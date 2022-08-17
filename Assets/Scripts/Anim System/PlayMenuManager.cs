@@ -102,7 +102,7 @@ public class PlayMenuManager : MonoBehaviour
 
             int nowtimer = (int)Mathf.Floor(playUI.manager.referenceSpeaker.time);
 
-            playSlider.value = playUI.manager.referenceSpeaker.time / (playUI.manager.referenceSpeaker.clip.length / playUI.manager.referenceSpeaker.clip.channels) * 100;
+            playSlider.value = playUI.manager.referenceSpeaker.time * (playUI.manager.referenceSpeaker.clip.length * playUI.manager.referenceSpeaker.clip.channels) * 100;
             if (nowtimer <= (float)(endtexttimer))
             {
                 nowTimeText.text = Mathf.Floor(nowtimer / 60).ToString("00") + ":" + (nowtimer % 60).ToString("00");
