@@ -117,8 +117,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: FlyingCheeseCyber
+    second: {fileID: 2100000, guid: 8875015465659e84086cd48ddc547515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: JasperBandana
     second: {fileID: 2100000, guid: 15e7ca18d61773c40ab4c7456dd0c624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JasperCEC
+    second: {fileID: 2100000, guid: e80d295e0378ced4897fa1726dd0ab41, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -137,6 +147,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: JasperHatCEC
+    second: {fileID: 2100000, guid: 88f19d07149efcd499d8277f4c23329f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: JasperPTT
     second: {fileID: 2100000, guid: 196811343a15d694aaf536a3f618bf1c, type: 2}
   - first:
@@ -144,6 +159,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: JasperShirt
     second: {fileID: 2100000, guid: 6a381abc482ce754395c4391fd9178b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JasperShirtCEC
+    second: {fileID: 2100000, guid: be04c7361c83a5d42acd58e585e6cfd9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

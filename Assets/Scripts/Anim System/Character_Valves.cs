@@ -59,11 +59,13 @@ public class Character_Valves : MonoBehaviour
         Fnaf1,
         CRAE,
         NRAE,
-        Cybers,
+        PCybers,
+        CCybers,
         Fnaf2,
         studioC,
         Mangle,
         Kooser,
+        WP5,
     }
     public enum DualPressureState
     {
@@ -239,12 +241,33 @@ public class Character_Valves : MonoBehaviour
                     {
                         return false;
                     }
-                case StageHook.Cybers:
-                    mv = GameObject.Find("Cyberamics");
+                case StageHook.PCybers:
+                    mv = GameObject.Find("PTT Cyberamics");
                     if (mv != null)
                     {
                         Debug.Log("Hook - " + name);
-                        ui = GameObject.Find("Cyberamics").transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>();
+                        ui = GameObject.Find("PTT Cyberamics").transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>();
+                        bitChart = mv.transform.Find("Mack Valves").GetComponent<Mack_Valves>();
+                        mv.transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>().characterEvent.AddListener(CreateMovements);
+                        ui.transform.root.Find("Live Editor").Find("UI Side Panel").GetComponent<UI_SidePanel>().FlowUpdater(this.gameObject);
+                        return true;
+                    }
+                    else if (!numeratorLoop)
+                    {
+                        numeratorLoop = true;
+                        StartCoroutine(HookCheck());
+                        return false;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                case StageHook.CCybers:
+                    mv = GameObject.Find("CEC Cyberamics");
+                    if (mv != null)
+                    {
+                        Debug.Log("Hook - " + name);
+                        ui = GameObject.Find("CEC Cyberamics").transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>();
                         bitChart = mv.transform.Find("Mack Valves").GetComponent<Mack_Valves>();
                         mv.transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>().characterEvent.AddListener(CreateMovements);
                         ui.transform.root.Find("Live Editor").Find("UI Side Panel").GetComponent<UI_SidePanel>().FlowUpdater(this.gameObject);
@@ -287,6 +310,27 @@ public class Character_Valves : MonoBehaviour
                     {
                         Debug.Log("Hook - " + name);
                         ui = GameObject.Find("Kooser").transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>();
+                        bitChart = mv.transform.Find("Mack Valves").GetComponent<Mack_Valves>();
+                        mv.transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>().characterEvent.AddListener(CreateMovements);
+                        ui.transform.root.Find("Live Editor").Find("UI Side Panel").GetComponent<UI_SidePanel>().FlowUpdater(this.gameObject);
+                        return true;
+                    }
+                    else if (!numeratorLoop)
+                    {
+                        numeratorLoop = true;
+                        StartCoroutine(HookCheck());
+                        return false;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                case StageHook.WP5:
+                    mv = GameObject.Find("WP5");
+                    if (mv != null)
+                    {
+                        Debug.Log("Hook - " + name);
+                        ui = GameObject.Find("WP5").transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>();
                         bitChart = mv.transform.Find("Mack Valves").GetComponent<Mack_Valves>();
                         mv.transform.Find("Show Selector").transform.Find("UI").GetComponent<UI_PlayRecord>().characterEvent.AddListener(CreateMovements);
                         ui.transform.root.Find("Live Editor").Find("UI Side Panel").GetComponent<UI_SidePanel>().FlowUpdater(this.gameObject);

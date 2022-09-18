@@ -387,6 +387,69 @@ ModelImporter:
   - first:
       74: -3136873770525020641
     second: Eyelid L
+  - first:
+      74: 8676719441912541322
+    second: Armature|Armature|Armature|Arm|Armature|Arm
+  - first:
+      74: 7352153800298729385
+    second: Armature|Armature|Armature|Body Lean.001|Armature|Body Lean.001
+  - first:
+      74: 1794744613309800488
+    second: Armature|Armature|Armature|Eyelid L.001|Armature|Eyelid L.001
+  - first:
+      74: -7192677968027203550
+    second: Armature|Armature|Armature|Eyelid R.001|Armature|Eyelid R.001
+  - first:
+      74: -7642764230427109290
+    second: Armature|Armature|Armature|Eyes Cross|Armature|Eyes Cross
+  - first:
+      74: -8664655665503543395
+    second: Armature|Armature|Armature|Guitar Raise|Armature|Guitar Raise
+  - first:
+      74: -3808037125652195375
+    second: Armature|Armature|Armature|Guitar Slide|Armature|Guitar Slide
+  - first:
+      74: 2708010545949790288
+    second: Armature|Armature|Armature|Hand|Armature|Hand
+  - first:
+      74: 3799292768905805158
+    second: Armature|Armature|Armature|Head Left.001|Armature|Head Left.001
+  - first:
+      74: 630125157900461936
+    second: Armature|Armature|Armature|Head Right.001|Armature|Head Right.001
+  - first:
+      74: 2029087070798270340
+    second: Armature|Armature|Armature|Head Up.001|Armature|Head Up.001
+  - first:
+      74: 7193617252504611032
+    second: Armature|Armature|Armature|Head Up|Armature|Head Up
+  - first:
+      74: -6036348503923970242
+    second: Armature|Armature|Armature|Leg L|Armature|Leg L
+  - first:
+      74: 4081988623190527152
+    second: Armature|Armature|Armature|Leg R|Armature|Leg R
+  - first:
+      74: 8360342376304312780
+    second: Armature|Armature|Armature|Mouth.003|Armature|Mouth.003
+  - first:
+      74: 9058744108433125426
+    second: Armature|Armature|Armature|Shoukder|Armature|Shoukder
+  - first:
+      74: 561423979396451649
+    second: Armature|Armature|Armature|SphereAction.001|Armature|SphereAction.001
+  - first:
+      74: -6084472896614972473
+    second: Armature|Armature|Armature|SphereAction.002|Armature|SphereAction.002
+  - first:
+      74: -9155893784729634483
+    second: Armature|Armature|Armature|SphereAction.003|Armature|SphereAction.003
+  - first:
+      74: -9106224924380325935
+    second: Armature|Armature|Armature|SphereAction|Armature|SphereAction
+  - first:
+      74: -79457305539577969
+    second: Armature|Armature|Armature|Wrist|Armature|Wrist
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -446,6 +509,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: FlyingCheeseCyber
+    second: {fileID: 2100000, guid: 8875015465659e84086cd48ddc547515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fur Inner
+    second: {fileID: 2100000, guid: 99e420e961351f94e912c12cc3cf0a11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fur Outer
+    second: {fileID: 2100000, guid: 006125cea09f5fd45bc36e960bc3f813, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Fur0
     second: {fileID: 2100000, guid: f9bee76e1dbbe714f98fb79c468e4dbd, type: 2}
   - first:
@@ -486,6 +564,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: JasperHatCEC
+    second: {fileID: 2100000, guid: 88f19d07149efcd499d8277f4c23329f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material
     second: {fileID: 2100000, guid: e4161519fca24d24e9f44a18411de0a7, type: 2}
   - first:
@@ -503,6 +586,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Paw
     second: {fileID: 2100000, guid: f8ceae1167740f844ac53be9fe6631fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlasticJasper
+    second: {fileID: 2100000, guid: 8deebc67bc1823b4781b5b10840b79cd, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

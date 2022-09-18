@@ -32,6 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sandbox/Sandbox.unity
     guid: b9f3d2f36c92086409656ee998d53571
+  - enabled: 1
+    path: Assets/Simulator/Scenes/CYBERS CEC/CEC Cybers.unity
+    guid: 6e62891fa274e28419837dea52c8f91a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1ad4485362b30e14db989c88e5cdf70e, type: 2}
     Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 396d6d3e9c771e24ea59ebd25ab84624, type: 2}

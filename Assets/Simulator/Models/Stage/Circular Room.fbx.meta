@@ -17,7 +17,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: AllLogos
+    second: {fileID: 2100000, guid: 239cd0ad4e4009345b1d357a3bd0bc0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Alluminum
+    second: {fileID: 2100000, guid: c431cf0f72d0e2d4c9fb9399c41ec3a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alluminum.002
     second: {fileID: 2100000, guid: c431cf0f72d0e2d4c9fb9399c41ec3a4, type: 2}
   - first:
       type: UnityEngine:Material
@@ -72,8 +82,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Logos
+    second: {fileID: 2100000, guid: 239cd0ad4e4009345b1d357a3bd0bc0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Other Metals
     second: {fileID: 2100000, guid: 28b8177df7f57ba479acdbcd94279bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PTT Logos
+    second: {fileID: 2100000, guid: 39a3911d58d222f49b4f91fda3b4198a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
